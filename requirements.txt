@@ -1,5 +1,0 @@
-# SHelper — зависимости для сборки
-# Запустите: pip install -r requirements.txt
-# Или просто запустите build.bat — он всё установит автоматически
-
-pyinstaller>=6.0
